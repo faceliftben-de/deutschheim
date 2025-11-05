@@ -46,6 +46,10 @@ Erstelle gerne einen Pull Request oder kontaktiere uns auf unserem Discord:
 Alle Inhalte dieses Repositories unterliegen dem Urheberrecht von **Deutschheim.de**.  
 Die Weiterverwendung ist nur mit schriftlicher Genehmigung gestattet.
 
+## Offizieller Upload
+
+Alle Uploads werden unter: github.com/faceliftben-de/deutschheim.de hochgeladen. Zugriff auf die Dateien erhalten nur Mitarbeiter in der Entsprechenden Position
+
 📬 Kontakt: [info@deutschheim.de](mailto:info@deutschheim.de)
 
 ---
